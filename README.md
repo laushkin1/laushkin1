@@ -2,7 +2,17 @@
 
 **` Student `**
 
-I am a beginner developer from Ukraine, studying in Slovakia. I code in C and Python, I have no work experience, so I am open to any suggestions. Ready to learn!
+---
+### :man_technologist: About me:
+
+I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> from Ukraine. My journey in IT started at the beginning of 2023, I decided to take the [GoIT](https://goit.global) courses, the Python programming language, and I have not regretted it. In the courses, we learned the language itself and how to use it. Now I have become more self-confident and ready for new challenges. At the moment, I am actively looking for a job and study at Technical University of Kosice([TUKE](https://www.tuke.sk))
+
+<p align="center">
+ <img width="600" src="assest/github-snake.svg" alt="snake"/>
+</p>
+
+- :telescope: Studied at GoIt courses.
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-PavloLovchytskyi-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com)
 
 ---
 
@@ -17,9 +27,13 @@ I am a beginner developer from Ukraine, studying in Slovakia. I code in C and Py
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <br />
 
 #
+
+- :telescope: Studied at GoIt courses.
 
 <!--
 **laushkin1/laushkin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
