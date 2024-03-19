@@ -11,8 +11,8 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
  <img width="600" src="assest/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Studied at GoIt courses.
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com)
+- 🔭 Studied at GoIt courses.
+- 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com)
 
 ---
 
@@ -32,20 +32,3 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <br />
 
 #
-
-- :telescope: Studied at GoIt courses.
-
-<!--
-**laushkin1/laushkin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
