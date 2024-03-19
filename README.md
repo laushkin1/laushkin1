@@ -3,7 +3,7 @@
 **` Student `**
 
 ---
-### :man_technologist: About me:
+### 👨‍💻 About me:
 
 I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> from Ukraine. My journey in IT started at the beginning of 2023, I decided to take the [GoIT](https://goit.global) courses, the Python programming language, and I have not regretted it. In the courses, we learned the language itself and how to use it. Now I have become more self-confident and ready for new challenges. At the moment, I am actively looking for a job and study at Technical University of Kosice([TUKE](https://www.tuke.sk))
 
