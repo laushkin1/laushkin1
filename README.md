@@ -15,7 +15,7 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com)
 
 ---
-### 🧰 Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
