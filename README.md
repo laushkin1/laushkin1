@@ -30,4 +30,4 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laushkin1"/>
