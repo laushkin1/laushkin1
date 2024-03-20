@@ -32,6 +32,6 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 #
 
-*   Top Languages
+### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laushkin1\&layout=compact)
