@@ -11,7 +11,7 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
  <img width="600" src="assest/github-snake.svg" alt="snake"/>
 </p>
 
-- 🔭 Studied at GoIt courses.[[Certificate]](CV/IvanLaushkinGoIT_Certificate.pdf)
+- 🔭 Studied at GoIt courses[[Certificate]](CV/IvanLaushkinGoIT_Certificate.pdf)
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com)
 
 ---
