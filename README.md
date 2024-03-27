@@ -37,4 +37,4 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laushkin1\&layout=compact)
 
 
-My ![CV](CV/IvanLaushkinCV.pdf)
+### My ![CV](CV/IvanLaushkinCV.pdf)
