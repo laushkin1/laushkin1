@@ -39,3 +39,4 @@ I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 #
 
 ### My ![CV](CV/IvanLaushkinCV.pdf)
+
