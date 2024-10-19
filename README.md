@@ -7,7 +7,8 @@
 
 I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> from Ukraine. My journey in IT started at the beginning of 2023, I decided to take the [GoIT](https://goit.global) courses, the Python programming language, and I have not regretted it. In the courses, we learned the language itself and how to use it. Now I have become more self-confident and ready for new challenges. At the moment, I am not actually looking for a job.
 
-I was a first-year student at the Technical University of Kosice([TUKE](https://www.tuke.sk)), Faculty of [FEI](https://www.fei.tuke.sk). I took my documents and now I am studying at the Slovak University of Technology([STU](https://www.stuba.sk)) in Bratislava at the same faculty [FEI](https://www.fei.stuba.sk/)
+I was a first-year student at the Technical University of Kosice([TUKE](https://www.tuke.sk)), Faculty of [FEI](https://www.fei.tuke.sk). 
+I took my documents and now I am studying at the Slovak University of Technology([STU](https://www.stuba.sk)) in Bratislava at the same faculty [FEI](https://www.fei.stuba.sk/)
 
 <p align="center">
  <img width="600" src="assest/github-snake.svg" alt="snake"/>
