@@ -41,4 +41,4 @@ I took my documents and now I am studying at the Slovak University of Technology
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laushkin1\&layout=compact)
 
 #
-### My [CV](CV/IvanLaushkinCV.pdf)
+### My [CV](CV/IvanLaushkinCV01052025.pdf)
