@@ -1,34 +1,44 @@
-### 👨🏻‍🎓 Ivan Laushkin
+<div align="center">
 
-**` Student `**
+# 👨🏻‍🎓 Ivan Laushkin
+### **`Student`**
 
----
+</div>
+
+<br>
+
 ### 👨‍💻 About me:
+As an Applied Informatics student([FEI](https://www.fei.stuba.sk/) [STU](https://www.stuba.sk)), I specialize in developing reliable and scalable applications. I have a broad range of knowledge in the IT field, from testing to databases.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I consider back-end development to be my primary focus, but I am also interested in learning new tools for other areas of IT. My goal is to find an engaging project that I will want to work on, and where I will have enough time for myself and my hobbies.
 
-I am a beginner developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> from Ukraine. My journey in IT started at the beginning of 2023, I decided to take the [GoIT](https://goit.global) courses, the Python programming language, and I have not regretted it. In the courses, we learned the language itself and how to use it. Now I have become more self-confident and ready for new challenges. At the moment, I am looking for a job.
+🔭 Studied at GoIt courses [[Certificate]](CV/IvanLaushkinGoIT_Certificate.pdf)
 
-I am studying at the Slovak University of Technology([STU](https://www.stuba.sk)) in Bratislava at the [FEI](https://www.fei.stuba.sk/) faculty
+📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laushkin1/)
 
-<p align="center">
- <img width="600" src="assest/github-snake.svg" alt="snake"/>
-</p>
-
-- 🔭 Studied at GoIt courses[[Certificate]](CV/IvanLaushkinGoIT_Certificate.pdf)
-- 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com)
 
 ---
 ### 🛠️ Languages and Tools
+<div align="center">
+  <img alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
+  <img alt="C" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />&nbsp;
+  <img alt="C++" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+  <img alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
+  <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+  <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+  <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+  <img alt="Django" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />&nbsp;
+  <img alt="Poetry" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" />&nbsp;
+  <img alt="CMake" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />&nbsp;
+  <img alt="PostgreSQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
+  <img alt="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
+  <img alt="SQLite" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;
+  <img alt="Linux" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />&nbsp;
+  <img alt="MacOS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />&nbsp;
+  <img alt="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
+  <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+  <img alt="GitLab" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />&nbsp;
+  <img alt="Vim" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />&nbsp;
+  <img alt="VSCode" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C" width="30px" height="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-<img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<br />
+  ### My [CV](CV/IvanLaushkinCV14102026.pdf)
 
-#
-### My [CV](CV/IvanLaushkinCV07032026.pdf)
+</div>
