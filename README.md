@@ -15,9 +15,11 @@ As an Applied Informatics student([FEI](https://www.fei.stuba.sk/) [STU](https:/
 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-laushkin1-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/laushkin1) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](laushkinivan1@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laushkin1/)
 
 
+<div align="center">
+
 ---
 ### 🛠️ Languages and Tools
-<div align="center">
+
   <img alt="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
   <img alt="C" width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />&nbsp;
   <img alt="C++" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;
